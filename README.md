@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 7Sind</h1>
 <h3 align="center">A Brazilian who is fascinated by technology and exact sciences, looking to improve my skills in most of the main areas of programming and UI/UX Design.</h3>
 
-- 🌱 I’m currently learning **Web development and Desktop development.**
+- 🌱 I’m currently learning **Desktop development.**
 
 - 💬 Ask me about **TypeScript.**
 
